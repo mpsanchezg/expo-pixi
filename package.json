@@ -1,6 +1,6 @@
 {
   "name": "expo-pixi",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "sideEffects": true,
   "description": "Tools for using pixi in Expo",
   "license": "MIT",
@@ -64,7 +64,7 @@
     "url": "^0.11.0"
   },
   "peerDependencies": {
-    "expo-gl": "~4.0.0"
+    "expo-gl": "*"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
